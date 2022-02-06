@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BrianRosasMendoza
+- 👀 I’m interested in AI and Hacking
+- 🌱 I’m currently learning Software Enginering
+- 📫 How to reach me brian.rosas.mendoza@gmail.com
